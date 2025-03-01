@@ -1,6 +1,6 @@
 Ссылка на проект: @vekmlmbot
 Скриншоты проекта:
-1 скрин https://github.com/maxibob007/ai_assistent/blob/main/2025-03-01_20-03-13.png?raw=true
+1 скрин [https://github.com/maxibob007/ai_assistent/blob/main/2025-03-01_20-03-13.png?raw=true](https://raw.githubusercontent.com/maxibob007/ai_assistent/6031e528efcdcc8ddfe399b58ed3e5cff4468298/2025-03-01_20-03-13.png)
 
 [Иллюстрация к проекту](https://example.com/image.png)
 [Иллюстрация к проекту](https://example.com/image.png)
