@@ -1,4 +1,17 @@
 Ссылка на проект: @vekmlmbot
+Скриншоты проекта:
+1 скрин([https://example.com/image.png](https://github.com/maxibob007/ai_assistent/blob/main/2025-03-01_20-03-13.png?raw=true))
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+[Иллюстрация к проекту](https://example.com/image.png)
+
+
 # Проект "ИИ-ассистент для закрытого клуба 'Свое дело'"
 
 ## Описание проекта
